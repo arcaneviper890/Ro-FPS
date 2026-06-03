@@ -3,5 +3,7 @@ A program built on Python that edits line 22 in GlobalBasicSettings_13.xml in th
 # You must have Roblox closed when you click apply or it will not work.
 
 
-<img width="1920" height="1080" alt="rofps" src="https://github.com/user-attachments/assets/c830eeae-7419-4a80-8932-9e26d51c13e4" />
+
+
+https://github.com/user-attachments/assets/b87b8612-f5ed-4191-b39e-bd36f1f42f13
 
